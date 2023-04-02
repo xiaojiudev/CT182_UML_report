@@ -7201,6 +7201,7 @@
 											"top": 962,
 											"width": 130.45703125,
 											"height": 13,
+											"underline": true,
 											"text": "+layIDThongBao()",
 											"horizontalAlignment": 0
 										},
@@ -14828,7 +14829,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGjXyrFVK9srU="
 							},
-							"name": "layIDThongBao"
+							"name": "layIDThongBao",
+							"isStatic": true
 						},
 						{
 							"_type": "UMLOperation",
